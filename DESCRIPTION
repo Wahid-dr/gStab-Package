@@ -1,0 +1,11 @@
+Package: gStab
+Type: Package
+Title: An R Package for Measuring Stability of Feature Selection Algorithms
+Version: 0.1
+Date: 2022-08-08
+Author: Abdul Wahid <ab.wahid1996@gmail.com>
+Maintainer: Abdul Wahid <ab.wahid1996@gmail.com>
+Description: A generalized stability estimator for measuring inter-intrastability of subsets
+License: AWKUM
+LazyData: TRUE
+RoxygenNote: 7.1.1
